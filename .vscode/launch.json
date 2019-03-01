@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "bfds.baseball.App",
+            "projectName": "bfds-baseball-0301"
+        }
+    ]
+}
